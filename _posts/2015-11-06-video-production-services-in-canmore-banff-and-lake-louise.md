@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Need a fast, engaged and smart team to complete any part of your project? Call now, you won't regret it!"
-datePublished: '2015-11-06T06:17:27.324Z'
-dateModified: '2015-11-06T06:17:14.561Z'
+datePublished: '2015-11-06T06:22:14.351Z'
+dateModified: '2015-11-06T06:22:10.401Z'
 title: 'Video Production Services in Canmore, Banff and Lake Louise'
 sourcePath: _posts/2015-11-06-video-production-services-in-canmore-banff-and-lake-louise.md
 published: true
