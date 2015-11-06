@@ -17,8 +17,8 @@ keywords:
   - delivery
   - weren
 description: "Video Production Service from Shoot to Delivery I've had the pleasure of chasing shots for Tourism Canmore for a few videos now. Here's an advertising concept for the Culinary Symphony. If you weren't there you've missed out!"
-datePublished: '2015-11-06T04:47:19.096Z'
-dateModified: '2015-11-06T04:47:06.560Z'
+datePublished: '2015-11-06T06:18:48.056Z'
+dateModified: '2015-11-06T06:18:42.632Z'
 author: []
 related: []
 app_links: []
