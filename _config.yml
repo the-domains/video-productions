@@ -1,13 +1,27 @@
+name: Video productions
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.893617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7808511
-  brandStrength: 1
-  lightness: 0.3297872
   brandColors:
     - '#FFFFFF'
     - '#38302F'
     - '#E0BE8F'
     - '#CFCDC7'
+  brandStrength: 1
+  lightness: 0.3297872
+  saturation: 0.7808511
   rhythmicContrast: 0.4089547
-typography_spectrum: 0.893617
-name: Video productions
+purpose: []
