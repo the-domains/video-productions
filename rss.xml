@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Video productions]]></title>
+        <description><![CDATA[Video productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 04:48:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tourism Canmore - Canmore Uncorked - Camera Operator]]></title>
+            <description><![CDATA[<article><h1>Tourism Canmore - Canmore Uncorked - Camera Operator</h1><p>Video Production Service from Shoot to Delivery I've had the pleasure of chasing shots for Tourism Canmore for a few videos now. Here's an advertising concept for the Culinary Symphony. If you weren't there you've missed out!</p><img src="http://www.cameraoperator.ca/wp-content/uploads/2015/07/canmore-uncorked.jpg"></article>]]></description>
+            <link>http://www.cameraoperator.ca/portfolio/tourism-canmore-uncorked/</link>
+            <guid isPermaLink="false">3daa47e8-c1af-4574-893c-34c2250ff827</guid>
+            <pubDate>Fri, 06 Nov 2015 04:45:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
