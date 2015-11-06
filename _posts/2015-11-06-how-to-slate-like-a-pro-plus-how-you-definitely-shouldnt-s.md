@@ -17,8 +17,8 @@ keywords:
   - length
   - editor
 description: 'Slating is really damn important, particularly when working with dual sound and massive amounts of footage.'
-datePublished: '2015-11-06T05:59:38.603Z'
-dateModified: '2015-11-06T05:59:03.954Z'
+datePublished: '2015-11-06T06:17:54.064Z'
+dateModified: '2015-11-06T06:16:18.132Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>How to Slate Like a Pro &amp;lpar;Plus How You Definitely Shouldn't Slate&amp;comma; Like Ever&amp;rpar;</h1><p>Slating is really damn important&amp;comma; particularly when working with dual sound and massive amounts of footage&amp;period; Here's Tomm from RocketJump Film School to show you the basics of how to do it right&amp;comma; plus some very tangible examples of how not to slate&amp;period;</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/slate_0.jpg?itok=7QmOJOYt" /></article>
+<article style=""><h1>How to Slate Like a Pro (Plus How You Definitely Shouldn't Slate, Like Ever)</h1><p>Slating is really damn important, particularly when working with dual sound and massive amounts of footage. Here's Tomm from RocketJump Film School to show you the basics of how to do it right, plus some very tangible examples of how not to slate.</p><img src="http://nofilmschool.com/sites/default/files/styles/facebook/public/slate_0.jpg?itok=7QmOJOYt" /></article>
