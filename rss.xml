@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Video productions]]></title>
         <description><![CDATA[Video productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/video-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 04:48:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 04:49:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/video-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tourism Canmore - Canmore Uncorked - Camera Operator]]></title>
-            <description><![CDATA[<article><h1>Tourism Canmore - Canmore Uncorked - Camera Operator</h1><p>Video Production Service from Shoot to Delivery I've had the pleasure of chasing shots for Tourism Canmore for a few videos now. Here's an advertising concept for the Culinary Symphony. If you weren't there you've missed out!</p><img src="http://www.cameraoperator.ca/wp-content/uploads/2015/07/canmore-uncorked.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tourism Canmore - Canmore Uncorked - Camera Operator</h1><p>Video Production Service from Shoot to Delivery</p><img src="http://www.cameraoperator.ca/wp-content/uploads/2015/07/canmore-uncorked.jpg"></article>]]></description>
             <link>http://www.cameraoperator.ca/portfolio/tourism-canmore-uncorked/</link>
             <guid isPermaLink="false">3daa47e8-c1af-4574-893c-34c2250ff827</guid>
-            <pubDate>Fri, 06 Nov 2015 04:45:37 GMT</pubDate>
+            <pubDate>Fri, 06 Nov 2015 04:47:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
