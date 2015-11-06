@@ -17,8 +17,8 @@ keywords:
   - length
   - editor
 description: 'Slating is really damn important, particularly when working with dual sound and massive amounts of footage.'
-datePublished: '2015-11-06T05:51:21.538Z'
-dateModified: '2015-11-06T05:50:57.027Z'
+datePublished: '2015-11-06T05:59:38.603Z'
+dateModified: '2015-11-06T05:59:03.954Z'
 author: []
 related: []
 app_links: []
