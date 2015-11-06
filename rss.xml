@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Video productions]]></title>
-        <description><![CDATA[Video productions]]></description>
+        <title><![CDATA[Corporate video production services in Banff, Canmore and Lake Louise]]></title>
+        <description><![CDATA[Corporate video production services in Banff, Canmore and Lake Louise]]></description>
         <link>https://thegrid.ai/video-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 04:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 04:54:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/video-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RMSC Women's Run - Camera Operator]]></title>
+            <description><![CDATA[<article><h1>RMSC Women's Run - Camera Operator</h1><p>The Rocky Mountain Soap Company Women's Run </p><img src="http://www.cameraoperator.ca/wp-content/uploads/2015/07/rocky-mountain-soap-company-race.png"></article>]]></description>
+            <link>https://thegrid.ai/video-productions/rmsc-womens-run-camera-operator/index.html</link>
+            <guid isPermaLink="false">9e70718d-616e-482f-ab9a-d10ed86328c2</guid>
+            <pubDate>Fri, 06 Nov 2015 04:54:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tourism Canmore - Canmore Uncorked - Camera Operator]]></title>
             <description><![CDATA[<article><h1>Tourism Canmore - Canmore Uncorked - Camera Operator</h1><p>Video Production Service from Shoot to Delivery</p><img src="http://www.cameraoperator.ca/wp-content/uploads/2015/07/canmore-uncorked.jpg"></article>]]></description>
