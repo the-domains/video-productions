@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://nofilmschool.com'
-  name: No Film School
-  favicon: 'http://nofilmschool.com/sites/all/themes/responsive/img/icons/favicon.ico'
-  domain: nofilmschool.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://nofilmschool.com/2015/05/how-slate-pro-plus-how-you-definitely-shouldnt-slate-ever'
+inLanguage: en
+starred: false
 keywords:
   - slating
   - lens
@@ -17,18 +16,21 @@ keywords:
   - sized
   - length
   - editor
-description: "Slating is really damn important, particularly when working with dual sound and massive amounts of footage. Here's Tomm from RocketJump Film School to show you the basics of how to do it right, plus some very tangible examples of how not to slate."
-inLanguage: en
+description: 'Slating is really damn important, particularly when working with dual sound and massive amounts of footage.'
+datePublished: '2015-11-06T05:51:21.538Z'
+dateModified: '2015-11-06T05:50:57.027Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://nofilmschool.com/2015/05/how-slate-pro-plus-how-you-definitely-shouldnt-slate-ever'
 title: "How to Slate Like a Pro (Plus How You Definitely Shouldn't Slate, Like Ever)"
-datePublished: '2015-11-06T05:43:19.258Z'
-dateModified: '2015-11-06T05:42:00.172Z'
 sourcePath: _posts/2015-11-06-how-to-slate-like-a-pro-plus-how-you-definitely-shouldnt-s.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: No Film School
+  domain: nofilmschool.com
+  url: 'http://nofilmschool.com'
+  favicon: 'http://nofilmschool.com/sites/all/themes/responsive/img/icons/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
