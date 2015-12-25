@@ -1,29 +1,41 @@
-name: Video productions
-favicon: null
-layout_spectrum: 0.52666
-typography_spectrum: 0.64292
 title: 'Corporate video production services in Banff, Canmore and Lake Louise'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3234043
+  brandStrength: 0
+  lightness: 0.3297872
   brandColors:
     - '#ffffff'
     - '#0f0e13'
     - '#bcc1c4'
     - '#4a699d'
     - '#fa3458'
-  brandStrength: 0
-  lightness: 0.375
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.3085106
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Video productions
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.64292
+layout_spectrum: 0
